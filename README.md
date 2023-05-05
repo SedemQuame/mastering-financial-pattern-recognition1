@@ -1,0 +1,1 @@
+# mastering-financial-pattern-recognition
